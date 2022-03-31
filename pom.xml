@@ -10,7 +10,7 @@
 	<!-- START -->
 	<properties>
 		<!-- tạo ra tên thẻ để ở dưới có thể lấy ra giá trị -->
-		<springframework.version>5.2.5.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 	</properties>
